@@ -1,1 +1,0 @@
-zip package.zip server requirements.txt application.py
